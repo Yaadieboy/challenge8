@@ -1,2 +1,2 @@
 # challenge8
-pingu
+ runner
